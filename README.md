@@ -1,7 +1,9 @@
 # HashCheck
-An easy to use crypthographic hash checker for your terminal
-
+*An easy to use crypthographic hash checker for your terminal*  
+  
 I created this python script to allow you to verify your files when you need it. It is fast and easy to use.
+
+### ⚠ Note: this is my first git project and my first kind of useful program, expect unprofessionalism from me. Sorry. ⚠
 
 ### How to use it?
 - First, launch the script by typing `python3 AlgCheck.py`
